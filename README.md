@@ -46,7 +46,7 @@ Currently sharpening my skills daily and actively looking for opportunities in D
 
 ## 📊 GitHub Stats
 
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash-mandlik&show_icons=true&theme=tokyonight)
+![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash-mandlik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
