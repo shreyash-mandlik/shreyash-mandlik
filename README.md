@@ -52,5 +52,5 @@ Currently sharpening my skills daily and actively looking for opportunities in D
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreyash-mandlik)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:mandlikshreyash25@gmail.com)
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreyash-mandlik-69a72726a))
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:mandlikshreyash2505@gmail.com)
